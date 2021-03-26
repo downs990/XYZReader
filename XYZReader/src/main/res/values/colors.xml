@@ -11,7 +11,7 @@
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
+     See the License for the specific language governing psermissions and
      limitations under the License.
 -->
 
@@ -19,7 +19,9 @@
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
+    <color name="theme_primary_dark">#04561A</color>s
     <color name="theme_accent">#04561A</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgray">#A3A3A3</color>
+    <color name="text_color">#808080</color>
+
 </resources>
